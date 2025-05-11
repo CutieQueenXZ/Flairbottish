@@ -7,8 +7,8 @@ from datetime import datetime
 reddit = praw.Reddit(
     client_id="Flairbottish",
     client_secret="uMbYRd9oWomON7gn5IoQWA",
-    username="gamerharun109",
-    password="gamerharun1",
+    username="flairbottish",
+    password="flairbot111",
     user_agent="Flair bot by /u/gamerharunyt"
 )
 
