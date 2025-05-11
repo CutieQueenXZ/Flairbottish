@@ -61,6 +61,7 @@ TIMEZONE=Your/Timezone  # e.g., Europe/Warsaw
 TIMEZONE=Asia/Jakarta
 ```
 
+((which is default the timezone, so ignore it))
 To find your timezone name, check [here](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones).
 
 ---
