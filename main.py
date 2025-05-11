@@ -16,9 +16,9 @@ subreddit = reddit.subreddit("FoundBob")
 def get_flair_status():
     hour = datetime.now().hour
     if 7 <= hour < 23:
-        return "Awake"
+        return "☀️Awake"
     else:
-        return "Sleeping"
+        return "💤Sleeping"
 
 while True:
     flair_text = get_flair_status()
