@@ -10,7 +10,7 @@ reddit = praw.Reddit(
     user_agent="Flair bot by /u/gamerharunyt"
 )
 
-subreddit = reddit.subreddit("foundbob")
+subreddit = reddit.subreddit("FoundBob")
 
 # Get current hour (24hr)
 def get_flair_status():
