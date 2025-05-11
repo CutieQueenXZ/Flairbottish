@@ -89,4 +89,4 @@ MIT License — free to use, modify, and share!
 
 ## 💬 Credits
 
-Created with ❤️ by [your_username] as a fun automation project!
+Created with ❤️ by me as a fun automation project!
